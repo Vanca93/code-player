@@ -1,2 +1,2 @@
 # code-player
-This is a jQuery code where you basically write the code on the spot and create a page simultaneously.
+This is a jQuery based page where you can, like on CodePen, write HTML, CSS and Javascript and get what's on the page simultaneously.
